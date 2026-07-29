@@ -1,25 +1,25 @@
 {
   "shows": {
-    "PRHN|251998|20260806|GOLD + 3D GlassL": {
+    "PRHN|251992|20260805|GOLD + 3D GlassL": {
       "venue": "Prasads Multiplex: Hyderabad",
       "time": "08:45 AM",
-      "date": "20260806",
+      "date": "20260805",
       "cat": "GOLD + 3D GlassL",
       "price": "400.00",
       "status": "3"
     },
-    "PRHN|251999|20260806|GOLD + 3D GlassL": {
+    "PRHN|251993|20260805|GOLD + 3D GlassL": {
       "venue": "Prasads Multiplex: Hyderabad",
       "time": "11:45 AM",
-      "date": "20260806",
+      "date": "20260805",
       "cat": "GOLD + 3D GlassL",
       "price": "400.00",
       "status": "2"
     },
-    "PRHN|252000|20260806|GOLD + 3D GlassL": {
+    "PRHN|251994|20260805|GOLD + 3D GlassL": {
       "venue": "Prasads Multiplex: Hyderabad",
       "time": "02:45 PM",
-      "date": "20260806",
+      "date": "20260805",
       "cat": "GOLD + 3D GlassL",
       "price": "400.00",
       "status": "2"
@@ -32,7 +32,7 @@
     "20260802": "AVAILABLE",
     "20260803": "AVAILABLE",
     "20260804": "AVAILABLE",
-    "20260805": "AVAILABLE",
-    "20260806": "BOOKABLE"
+    "20260805": "BOOKABLE",
+    "20260806": "AVAILABLE"
   }
 }
